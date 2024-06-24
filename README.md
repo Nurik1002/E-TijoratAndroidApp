@@ -20,8 +20,6 @@
 <img src = "https://github.com/preethzcodez/E-CommerceAndroidAppExample/blob/master/screenshots/Screenshot_2018-01-07-19-15-30-386_com.preethzcodez.ecommerceexample.png" height="500"></img><br/><br/>
 ### Sign Up
 <img src = "https://github.com/preethzcodez/E-CommerceAndroidAppExample/blob/master/screenshots/Screenshot_2018-01-07-19-15-37-913_com.preethzcodez.ecommerceexample.png" height="500"></img><br/><br/>
-### Account Details Page
-<img src = "https://github.com/preethzcodez/E-CommerceAndroidAppExample/blob/master/screenshots/Screenshot_2018-01-07-19-16-30-351_com.preethzcodez.ecommerceexample.png" height="500"></img><br/><br/>
 ### Filters Page
 <img src = "https://github.com/preethzcodez/E-CommerceAndroidAppExample/blob/master/screenshots/Screenshot_2018-01-07-19-17-03-396_com.preethzcodez.ecommerceexample.png" height="500"></img><br/><br/>
 ### Wishlist
